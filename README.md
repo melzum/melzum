@@ -2,7 +2,7 @@
 
 **Bilişim Güvenliği Teknolojisi öğrencisi** · İstanbul, Türkiye
 
-Ağ temelleri, Linux ve Python üzerine çalışıyorum; web ve sistem zafiyetlerini
+Ağ temelleri, Kali Linux ve Python üzerine çalışıyorum; web ve sistem zafiyetlerini
 kendi laboratuvarımda yeniden üretip kök nedenini ve kanıtlarını raporluyorum.
 Sızma testi alanında kıdemli uzmanlarla çalışarak gelişmeyi hedefliyorum.
 
@@ -16,7 +16,7 @@ Sızma testi alanında kıdemli uzmanlarla çalışarak gelişmeyi hedefliyorum.
 
 ## Kullandığım araçlar
 
-`Nmap` · `Shodan` · `theHarvester` · `Metasploit` · `Packet Tracer` · `Linux` ·
+`Nmap` · `Shodan` · `theHarvester` · `Metasploit` · `Packet Tracer` · `Kali Linux` ·
 `Python` · `Git`
 
 ## Bağlantılar
